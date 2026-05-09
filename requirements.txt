@@ -1,0 +1,6 @@
+python-dotenv
+requests
+numpy
+pandas
+ollama
+# Add any specific AI frameworks you use here
